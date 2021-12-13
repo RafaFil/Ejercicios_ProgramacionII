@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SRP/1.0.0": {
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "runtime": {
+          "SRP.dll": {}
+        }
+      },
+      "Library/1.0.0": {
+        "runtime": {
+          "Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SRP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

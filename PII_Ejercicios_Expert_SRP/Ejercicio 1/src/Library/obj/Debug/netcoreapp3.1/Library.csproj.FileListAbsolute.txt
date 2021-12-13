@@ -1,0 +1,10 @@
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.csproj.AssemblyReference.cache
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\59899\OneDrive - Universidad Católica del Uruguay\PROGRAMACIÓN II\Semana 4\PII_Ejercicios_Expert_SRP\Ejercicio 1\src\Library\obj\Debug\netcoreapp3.1\Library.pdb

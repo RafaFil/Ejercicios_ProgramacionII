@@ -1,0 +1,9 @@
+En el siguiente programa las modificaciones que se hicieron fueron las siguientes:
+Primero se detecto que el problema radicaba que para una mismo metodo (AllOnePrinter) se utilizaban 
+dos parametros. Para solucionar esto (y que no se preguntase el destino de impresion ) se puso en practica 
+el patron polimorfismo en donde se crea la interface Iprinter con un metodo PrintTicket (cuyo parametro es 
+Recipe, pues es donde esta almacenada la informacion del ticket). Luego se crean dos clases (una para cada 
+impresion) y se le asocia el tipo Iprinter. Mediante una operacion polimorfica de PrintTicket se logra 
+realizar la consigna que se pedia.
+En el programa, los cambios fueron: se crea un printer del tipo Iprinter y luego se le aplica a cada metodo
+(ConsolePrinter y PrintTicket). Su parametro es recipe (creadas anteriormente en el programa)

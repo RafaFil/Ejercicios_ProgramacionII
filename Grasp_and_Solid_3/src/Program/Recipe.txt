@@ -1,0 +1,4 @@
+Receta de Café con leche:
+100 de 'Café' usando 'Cafetera' durante 120
+200 de 'Leche' usando 'Hervidor' durante 60
+Costo de producción: 290000
